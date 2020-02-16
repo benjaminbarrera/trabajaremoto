@@ -13,7 +13,8 @@ function App() {
   return (
     <Router>
       <div>
-      Bienvenido
+      <h1 className="text-primary bold">Trabajaremoto.mx</h1>
+      <h3>desde casa o de donde sea!</h3>
        <Routing />
       </div>
   </Router>
